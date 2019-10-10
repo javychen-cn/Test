@@ -1,0 +1,3 @@
+title=天天新图
+author=Kivy team
+orientation=landscape
