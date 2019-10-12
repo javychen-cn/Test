@@ -2,7 +2,7 @@
 
 # This is a picture transformation APP
 
-# Run downpic first, and then main.py
+# Run "downpic.py" first, and then "main.py"
 
 # Then it can be packaged into app with buildozer and run on the mobile phone.
 
